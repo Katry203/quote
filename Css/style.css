@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.quate {
+  margin-top: 50%;
+  color: wheat;
+  width: 100px;
+}
+.bebold {
+  font-weight: bold;
+  font-size: 100px;
+  padding-block: 40px;
+}
+.hint {
+  font-size: 30px;
+}
+button {
+  width: 150px;
+  height: 50px;
+}
+
+.quote,
+.Ather {
+  font-weight: 800;
+  font-size: 33px;
+  padding-top: 20px;
+}
